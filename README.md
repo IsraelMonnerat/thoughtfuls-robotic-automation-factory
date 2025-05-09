@@ -4,17 +4,17 @@
 
 To run the project locally. Create a Virtual Environment:
 ````bash
-python3 -m venv virtual-env-name
+python3 -m venv venv
 ````
 
 ### Activating Virtual Environment.
 On Windows:
 ````bash
-virtual-env-name\Scripts\Activate.ps1
+venv\Scripts\Activate.ps1
 ````
 On Linux:
 ````bash
-source virtual-env-name/bin/activate
+source venv/bin/activate
 ````
 
 Install the dependencies:
